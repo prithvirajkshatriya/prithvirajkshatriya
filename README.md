@@ -21,6 +21,8 @@ But, I learned to get the best of all the worlds, by letting go some good things
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,scss&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
+# Currently learning, Project currently on hold or project I am working on, etc ✔️
+![image](https://user-images.githubusercontent.com/50717968/152688757-ff139442-f83a-4f9f-9890-db7d819f530e.png)
 
 <!--
 **Kshatriyaprithviraj/Kshatriyaprithviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
