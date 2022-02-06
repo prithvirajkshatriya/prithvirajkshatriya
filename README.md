@@ -20,7 +20,7 @@ But, I learned to get the best of all the worlds, by letting go some good things
 <!-- Using html -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" height="250" width="500" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="250" width="500" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,scss&card_width=700" height="200"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,scss&card_width=700" height="210"/>
 
 
 <!-- Direct link -->
