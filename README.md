@@ -12,10 +12,8 @@ But what does "Prithvi" even mean? It means **Earth. The Planet Earth.**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,scss&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **Kshatriyaprithviraj/Kshatriyaprithviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
