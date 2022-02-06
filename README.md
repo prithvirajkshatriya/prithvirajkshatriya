@@ -8,6 +8,7 @@ Well, concisely I am what's in my profile bio - ***An explorer & a learner forev
 But, I learned to get the best of all the worlds, by letting go some good things for something bigger and better. Hmm.. You can also say like "looking at the grand scheme of things".
 
 # Let's catch-up here <img align="center" src="https://user-images.githubusercontent.com/50717968/152671851-5e016ed5-db13-4e48-8722-729fa4fd5879.png" height="55"/> 
+
 <a href="mailto: kshatriyaprithviraj@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/prithvi-raj-3431a8162/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://pin.it/6i8YX0u" target="_blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>&nbsp;
@@ -17,8 +18,9 @@ But, I learned to get the best of all the worlds, by letting go some good things
 
 # Statistics <img align="center" src="https://user-images.githubusercontent.com/50717968/152671984-bcb1bc8c-e7bf-41eb-bfa3-0cc2b2e7a3ed.png" height="55" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)&nbsp;
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,scss&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 
