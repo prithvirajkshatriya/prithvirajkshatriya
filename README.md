@@ -1,6 +1,7 @@
 # Salve amicis <img align="center" src="https://img.icons8.com/color/48/000000/jake--v2.png" height="50" width="50"/> 
 
 # I'm Prithvi <img align="center" src="https://user-images.githubusercontent.com/50717968/152666856-09fa601d-d7b0-414d-afe3-dbc5b902cc04.png" height="50" width="50"/>
+But what does "Prithvi" even mean? It means **Earth. The Planet Earth.**
 
 <a href="mailto: kshatriyaprithviraj@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/prithvi-raj-3431a8162/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -14,6 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,scss&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **Kshatriyaprithviraj/Kshatriyaprithviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
