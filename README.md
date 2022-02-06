@@ -8,7 +8,6 @@ Well, concisely I am what's in my profile bio - ***An explorer & a learner forev
 But, I learned to get the best of all the worlds, by letting go some good things for something bigger and better. Hmm.. You can also say like "looking at the grand scheme of things".
 
 # Let's catch-up here <img align="center" src="https://user-images.githubusercontent.com/50717968/152671851-5e016ed5-db13-4e48-8722-729fa4fd5879.png" height="55"/> 
-
 <a href="mailto: kshatriyaprithviraj@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/prithvi-raj-3431a8162/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://pin.it/6i8YX0u" target="_blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>&nbsp;
