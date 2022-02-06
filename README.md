@@ -1,7 +1,11 @@
-# Salve amicis <img align="center" src="https://img.icons8.com/color/48/000000/jake--v2.png" height="50" width="50"/> 
+# Salve amicis <img align="center" src="https://img.icons8.com/color/48/000000/jake--v2.png" height="50" /> 
 
-# I'm Prithvi <img align="center" src="https://user-images.githubusercontent.com/50717968/152666856-09fa601d-d7b0-414d-afe3-dbc5b902cc04.png" height="50" width="50"/>
+# I'm Prithvi <img align="center" src="https://user-images.githubusercontent.com/50717968/152666856-09fa601d-d7b0-414d-afe3-dbc5b902cc04.png" height="50"/>
 But what does "Prithvi" even mean? It means **Earth. The Planet Earth.**
+
+# About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
+Well, concisely I am what's in my profile bio - ***An explorer & a learner forever!***  📖✨ And there's so much to learn, explore, and do but, so little time! 🥺
+But, I learned to get the best of all the worlds, by letting go some good things for something bigger and better. Hmm.. You can also it as "looking at the grand scheme of things".
 
 <a href="mailto: kshatriyaprithviraj@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/prithvi-raj-3431a8162/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
