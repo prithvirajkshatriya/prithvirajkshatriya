@@ -20,7 +20,7 @@ But, I learned to get the best of all the worlds, by letting go some good things
 <!-- Using html -->
 <div style="display: flex; flex-direction: row;">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" width="200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" width="420"/>
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" height="250" width="500" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" height="220"/> -->
@@ -35,7 +35,7 @@ But, I learned to get the best of all the worlds, by letting go some good things
 
 
 # Currently learning, Project currently on hold or project I am working on, etc ✔️
-<img src="https://user-images.githubusercontent.com/50717968/152688757-ff139442-f83a-4f9f-9890-db7d819f530e.png" align="center" width="150" height="150" />
+<img src="https://user-images.githubusercontent.com/50717968/152688757-ff139442-f83a-4f9f-9890-db7d819f530e.png" align="center" width="100" height="100" />
 
 
 <!--
