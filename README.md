@@ -15,6 +15,7 @@ But, I learned to get the best of all the worlds, by letting go some good things
 <a href="https://twitter.com/prithviation" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp; 
 <a href="https://t.me/prithviation" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp; 
 <a href="https://discord.com/users/Earthian#0777" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp; 
+
 ![Web capture_8-2-2022_112231_www canva com](https://user-images.githubusercontent.com/50717968/152926826-9fc1a627-31db-4bf5-ae3e-7b6bfa5cd54f.jpeg)
 
 # Statistics <img align="center" src="https://user-images.githubusercontent.com/50717968/152671984-bcb1bc8c-e7bf-41eb-bfa3-0cc2b2e7a3ed.png" height="55" />
