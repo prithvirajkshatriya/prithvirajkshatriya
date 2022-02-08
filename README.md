@@ -19,8 +19,8 @@ But, I learned to get the best of all the worlds, by letting go some good things
 # Statistics <img align="center" src="https://user-images.githubusercontent.com/50717968/152671984-bcb1bc8c-e7bf-41eb-bfa3-0cc2b2e7a3ed.png" height="55" />
 <!-- Using html -->
 <div style="display: flex; flex-direction: row;">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" width="450" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" width="360" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" width="425" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" width="375" />
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" height="250" width="500" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" height="220"/> -->
