@@ -26,7 +26,7 @@ But, I learned to get the best of all the worlds, by letting go some good things
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" height="220"/> -->
 
 # Streaks <img align="center" src="https://user-images.githubusercontent.com/50717968/152920968-c7079bc5-7f07-4abb-b2ba-63a470cf6970.png" height="48" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="220" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" />
 
 
 <!-- Direct link -->
