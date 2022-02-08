@@ -1,6 +1,6 @@
-# Salve amicis <img align="center" src="https://user-images.githubusercontent.com/50717968/152670473-dd644045-e014-4744-a9f9-8eae6cb82605.png" height="50"/> I hope y'all are doing great! <img align="center" src="https://img.icons8.com/color/48/000000/jake--v2.png" height="50" />  
+# Salve amicis <img align="center" src="https://user-images.githubusercontent.com/50717968/152921789-0b78a2e7-19c2-4404-971b-32ed732cfdc9.png" height="50"/> <br /> I hope y'all are doing great! <img align="center" src="https://user-images.githubusercontent.com/50717968/152921620-0fb76432-38cd-4dce-bc9f-223b8fb79045.png" height="50" /> 
 
-# I'm Prithvi <img align="center" src="https://user-images.githubusercontent.com/50717968/152666856-09fa601d-d7b0-414d-afe3-dbc5b902cc04.png" height="50"/>
+# I'm Prithvi <img align="center" src="https://user-images.githubusercontent.com/50717968/152921941-bbbdbaf9-5ce5-48d9-bd1e-a56e176ac0ca.png" height="50"/>
 But what does "Prithvi" even mean? It means **Earth. The Planet Earth.**
 
 # About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
