@@ -3,7 +3,6 @@
 # I'm Prithvi <img align="center" src="https://user-images.githubusercontent.com/50717968/152921941-bbbdbaf9-5ce5-48d9-bd1e-a56e176ac0ca.png" height="50"/>
 But what does "Prithvi" even mean? It means **Earth. The Planet Earth.**
 
-
 # About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
 Well, concisely I am what's in my profile bio - ***An explorer & a learner forever!***  📖✨ And there's so much to learn, explore, and do but, so little time! 🥺
 But, I learned to get the best of all the worlds, by letting go some good things for something bigger and better. Hmm.. You can also say like "looking at the grand scheme of things".
@@ -16,7 +15,6 @@ But, I learned to get the best of all the worlds, by letting go some good things
 <a href="https://t.me/prithviation" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp; 
 <a href="https://discord.com/users/Earthian#0777" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp; 
 
-![Web capture_8-2-2022_112231_www canva com](https://user-images.githubusercontent.com/50717968/152926826-9fc1a627-31db-4bf5-ae3e-7b6bfa5cd54f.jpeg)
 
 # Statistics <img align="center" src="https://user-images.githubusercontent.com/50717968/152671984-bcb1bc8c-e7bf-41eb-bfa3-0cc2b2e7a3ed.png" height="55" />
 <!-- Using html -->
