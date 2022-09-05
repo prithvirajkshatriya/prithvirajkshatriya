@@ -13,7 +13,7 @@ But, I learned to get the best of all the worlds, by letting go some good things
 <a href="https://pin.it/6i8YX0u" target="_blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>&nbsp; 
 <a href="https://twitter.com/im_earthian_" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp; 
 <a href="https://t.me/prithviation" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp; 
-<a href="https://discord.com/users/UnfuckwithableMe#0777" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp; 
+<!-- <a href="https://discord.com/users/UnfuckwithableMe#0777" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> --> </a>&nbsp; 
 
 
 # Statistics <img align="center" src="https://user-images.githubusercontent.com/50717968/152671984-bcb1bc8c-e7bf-41eb-bfa3-0cc2b2e7a3ed.png" height="55" />
