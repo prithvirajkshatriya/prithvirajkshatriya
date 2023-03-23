@@ -18,14 +18,14 @@ Well, concisely, I am what's in my profile bio - ***An explorer & a learner fore
 # Statistics <img align="center" src="https://user-images.githubusercontent.com/50717968/152671984-bcb1bc8c-e7bf-41eb-bfa3-0cc2b2e7a3ed.png" height="55" />
 <!-- Using html -->
 <div style="display: flex; flex-direction: row;">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" width="445" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" width="375" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamVaidh&show_icons=true&theme=midnight-purple&hide_border=true" width="445" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamVaidh&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" width="375" />
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kshatriyaprithviraj&show_icons=true&theme=midnight-purple&hide_border=true" height="250" width="500" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,css,scss&layout=compact" height="220"/> -->
 
 # Streaks <img align="center" src="https://user-images.githubusercontent.com/50717968/152920968-c7079bc5-7f07-4abb-b2ba-63a470cf6970.png" height="48" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="445" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iamVaidh&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="445" />
 
 
 <!-- Direct link -->
