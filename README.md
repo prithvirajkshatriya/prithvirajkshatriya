@@ -4,7 +4,7 @@
 But what does "Prithvi" even mean? It means **Earth. The Planet Earth.**
 
 # About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
-An adaptable & experiential learner adept at mastering new technologies, eagerly anticipating opportunities to work on projects in Spring Framework, Django, C++(17/20), and MEAN/MERN (TypeScript). A highly flexible-minded professional, ready to tackle any challenging problem as an opportunity to make the best of it. Furthermore, I also like working on Computer Vision and Natural Language Processing projects.
+An adaptable & experiential learner adept at mastering new technologies, eagerly anticipating opportunities to work on projects in Spring Framework, Django, and MEAN/MERN (TypeScript). A highly flexible-minded professional, ready to tackle any challenging problem as an opportunity to make the best of it. Furthermore, I also like working on Computer Vision and Natural Language Processing projects.
 
 # Meet me here <img align="center" src="https://user-images.githubusercontent.com/50717968/152671851-5e016ed5-db13-4e48-8722-729fa4fd5879.png" height="55"/> 
 <a href="mailto: prithviraj_1999@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp; 
