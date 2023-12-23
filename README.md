@@ -6,14 +6,6 @@ But what does "Vaidh" even mean? It means **Doctor.**
 # About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
 A highly flexible-minded learner, ready to tackle any challenging problem as an opportunity to make the best of it. An adaptable & experiential learner adept at mastering new technologies. I like working on Spring Framework, C++(17/20), Deep Learning, Natural Language Processing, and Computer Vision.
 
-# Meet me here <img align="center" src="https://user-images.githubusercontent.com/50717968/152671851-5e016ed5-db13-4e48-8722-729fa4fd5879.png" height="55"/> 
-<!-- <a href="mailto: prithviraj_1999@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp; -->
-
-<a href="https://www.linkedin.com/in/prithvi-raj-3431a8162/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; 
-<a href="https://pin.it/6i8YX0u" target="_blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>&nbsp; 
-<a href="https://twitter.com/im_earthian_" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp; 
-
-
 <!-- <a href="https://discord.com/users/UnfuckwithableMe#0777" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> --> </a>&nbsp; 
 
 
