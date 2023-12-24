@@ -32,7 +32,7 @@ A highly flexible-minded learner, ready to tackle any challenging problem as an 
 
 
 <!--
-**Kshatriyaprithviraj/Kshatriyaprithviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kshatriyaprithviraj/Kshatriyaprithviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
