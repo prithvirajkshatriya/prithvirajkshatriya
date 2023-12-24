@@ -6,7 +6,7 @@ But what does "Vaidh" even mean? It means **Doctor.**
 # About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
 A highly flexible-minded learner, ready to tackle any challenging problem as an opportunity to make the best of it. An adaptable & experiential learner adept at mastering new technologies. I like working on Spring Framework, C++(17/20), Deep Learning, Natural Language Processing, and Computer Vision.
 
-<!-- <a href="https://discord.com/users/UnfuckwithableMe#0777" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> --> </a>&nbsp; 
+<!-- <a href="https://discord.com/users/UnfuckwithableMe#0777" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> --> </a> 
 
 
 <!-- # Statistics <img align="center" src="https://user-images.githubusercontent.com/50717968/152671984-bcb1bc8c-e7bf-41eb-bfa3-0cc2b2e7a3ed.png" height="55" />
