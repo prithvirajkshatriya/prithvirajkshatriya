@@ -26,7 +26,7 @@ A highly flexible-minded learner, ready to tackle any challenging problem as an 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshatriyaprithviraj&langs_count=5&theme=algolia&hide_border=true&hide=html,ejs,pug,scss&card_width=500)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kshatriyaprithviraj&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-
+<!-- 
 <!-- # Currently learning, Project currently on hold or project I am working on, etc ✔️
 <img src="https://user-images.githubusercontent.com/50717968/152688757-ff139442-f83a-4f9f-9890-db7d819f530e.png" align="center" width="100" height="100" /> -->
 
@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
