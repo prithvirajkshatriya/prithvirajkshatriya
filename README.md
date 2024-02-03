@@ -2,4 +2,11 @@
 
 
 # About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
-An experiential and adaptable learner ready to tackle any challenging problem as an opportunity to make the best of it. Actively anticipating chances to work on Full Stack, Deep Learning, Natural Language Processing, and Computer Vision projects, I bring a proactive approach to every endeavor.
+An experiential and adaptable learner ready to tackle any challenging problem as an opportunity to make the best of it.
+
+
+# My Toolbox ⚒️
+
+ Software Engineering (Java/Spring & C#/.NET Ecosystem), Deep Learning, Natural Language Processing, and Computer Vision, Flexibility.
+
+Cheers! 🥂
