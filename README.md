@@ -2,4 +2,4 @@
 
 
 # About me? <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
-A highly flexible-minded professional, ready to tackle any challenging problem as an opportunity to make the best of it. An adaptable & experiential learner adept at mastering new technologies, actively anticipating opportunities to work on Full stack, Deep Learning, Natural Language Processing, and Computer Vision projects.
+An experiential and adaptable learner ready to tackle any challenging problem as an opportunity to make the best of it. Actively anticipating chances to work on Full Stack, Deep Learning, Natural Language Processing, and Computer Vision projects, I bring a proactive approach to every endeavor.
