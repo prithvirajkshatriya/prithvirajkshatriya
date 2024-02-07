@@ -6,7 +6,7 @@ An experiential and adaptable learner ready to tackle any challenging problem as
 
 # Toolbox ⚒️
 
-- [ ] Software Engineering (Java/Spring & C#/.NET Ecosystem).
+- [ ] Software Engineering.
 - [ ] Deep Learning.
 - [ ] Natural Language Processing.
 - [ ] Computer Vision.
