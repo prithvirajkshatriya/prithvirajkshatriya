@@ -9,6 +9,6 @@ An experiential and adaptable learner ready to tackle any challenging problem as
 - [ ] Software Engineering.
 - [ ] Deep Learning.
 - [ ] Natural Language Processing.
-- [ ] 
+
 
 Cheers!😃🥂
