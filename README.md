@@ -7,6 +7,7 @@ An aspring polyglot engineer, an experiential and adaptable learner ready to tac
 # Toolbox ⚒️
 
 - [ ] Software Engineering.
+- [ ] Deep Learning
 - [ ] Natural Language Processing.
 - [ ] Computer Vision.
 
