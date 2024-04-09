@@ -5,6 +5,8 @@ An experiential and adaptable learner ready to tackle any challenging problem as
 - [ ] Deep Learning.
 - [ ] Natural Language Processing.
 
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
 Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zealand.
 
 <div id="badges">
