@@ -13,7 +13,7 @@ Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zea
   <a href="mailto:kshatriya.prithvi.raj.27@gmail.com?">
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-<!--   <a href="https://www.linkedin.com/in/prithvi-raj-k-3431a8162/">
+  <a href="https://www.linkedin.com/in/prithvi-raj-k-3431a8162/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
 </div>
