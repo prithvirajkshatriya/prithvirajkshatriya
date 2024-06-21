@@ -5,7 +5,11 @@
 - Deep Learning.
 - Natural Language Processing.
 
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs,ts,r,sass,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform)](https://skillicons.dev)
+
+<hr>
 
 Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zealand.
 
@@ -13,6 +17,7 @@ Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zea
   <a href="mailto:kshatriya.prithvi.raj.27@gmail.com?">
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <hr>
   <a href="https://www.linkedin.com/in/prithvi-raj-k-3431a8162/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
