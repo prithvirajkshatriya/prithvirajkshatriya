@@ -1,4 +1,4 @@
-# About <img align="center" src="https://user-images.githubusercontent.com/50717968/152670053-2981f442-b7f8-4e5e-85ac-8dbee19b5473.png" height="55"/>
+# About ℹ️
 <!--- An experiential and adaptable learner ready to tackle any challenging problem as an opportunity to make the best of it. -->
 
 - Software Engineering.
@@ -7,11 +7,19 @@
 
 <hr>
 
+# Toolbox 🧰
+
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs,ts,r,sass,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform)](https://skillicons.dev)
 
 <hr>
 
-Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zealand.
+# Thinking 🤔
+
+[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig)](https://skillicons.dev)
+
+<hr>
+
+#### Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zealand.
 
 <hr>
   
