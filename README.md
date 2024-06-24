@@ -15,7 +15,7 @@
 
 # Thinking 🤔
 
-[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig,scala,kotlin)](https://skillicons.dev)
 
 <hr>
 
