@@ -1,9 +1,7 @@
 # About 🪪
 <!--- An experiential and adaptable learner ready to tackle any challenging problem as an opportunity to make the best of it. -->
 
-- Software Engineering.
-- Deep Learning.
-- Natural Language Processing.
+Software Engineering. Deep Learning. Natural Language Processing.
 
 <hr>
 
@@ -19,7 +17,7 @@
 
 <hr>
 
-#### Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zealand.
+#### 👔 Open to on-site & remote work in US, UK, Ireland, Australia, Canada, and New Zealand.
 
 <hr>
   
