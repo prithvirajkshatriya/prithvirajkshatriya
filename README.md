@@ -1,18 +1,19 @@
-# About 🪪
+# 🪪
+<!--- # About 🪪 -->
 <!--- An experiential and adaptable learner ready to tackle any challenging problem as an opportunity to make the best of it. -->
 
 Software Engineering. Deep Learning. Natural Language Processing.
 
 <hr>
 
-# Toolbox 🧰
-
+# 🧰
+<!--- # Toolbox 🧰 -->
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react,sass)](https://skillicons.dev)
 
 <hr>
 
-# Thinking 🤔
-
+# 🤔
+<!--- # Thinking 🤔 -->
 [![My Skills](https://skillicons.dev/icons?i=rust,golang,zig,scala,kotlin)](https://skillicons.dev)
 
 <hr>
