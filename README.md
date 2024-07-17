@@ -10,7 +10,7 @@
 
 # Toolbox 🧰
 <!--- # Toolbox 🧰 -->
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,java,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
 <hr>
 
