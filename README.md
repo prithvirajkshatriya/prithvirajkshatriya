@@ -10,13 +10,13 @@
 
 # Toolbox 🧰
 <!--- # Toolbox 🧰 -->
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,java,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
 <hr>
 
 # Thinking 🤔
 <!--- # Thinking 🤔 -->
-[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig,scala,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig,julia)](https://skillicons.dev)
 
 <hr>
 
