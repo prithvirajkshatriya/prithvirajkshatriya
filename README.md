@@ -1,6 +1,6 @@
 # About 🪪
 - Software Engineering.
-- Machine Learning
+- Machine Learning.
 - Deep Learning.
 
 # Toolbox 🧰
