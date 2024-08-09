@@ -10,7 +10,7 @@
 
 # Thinking 🤔
 <!--- # Thinking 🤔 -->
-[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig,julia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig)](https://skillicons.dev)
 
 # Contact📇
 <div id="badges">
