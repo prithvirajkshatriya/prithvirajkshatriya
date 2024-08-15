@@ -1,5 +1,4 @@
 # About 🪪
-
 <ul>
   <li>Software Engineering</li>
   <li>Machine Learning</li>
@@ -16,6 +15,7 @@
 # Thinking 🤔
 <!--- # Thinking 🤔 -->
 [![My Skills](https://skillicons.dev/icons?i=rust,golang,zig)](https://skillicons.dev)
+
 
 # Contact📇
 <div id="badges">
