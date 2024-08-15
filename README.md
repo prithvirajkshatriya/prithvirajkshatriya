@@ -22,5 +22,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a> <img src="https://dcbadge.limes.pink/api/shield/1264564017951932456" alt="write a description depending on your usage"/> </a>
+  <a> <img src="https://dcbadge.limes.pink/api/shield/1264564017951932456"/> </a>
 </div>
