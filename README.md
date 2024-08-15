@@ -26,4 +26,6 @@
 
 <br />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1264564017951932456)](https://discord.com/users/:1264564017951932456)
+<a href="https://discord-readme-badge.vercel.app/api?id=1264564017951932456"> 
+  <img src="https://discord-readme-badge.vercel.app/api?id=1264564017951932456" /> 
+</a>
