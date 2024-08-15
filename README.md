@@ -23,9 +23,3 @@
   </a>
   &nbsp;
 </div>
-
-<br />
-
-<a href="https://discord-readme-badge.vercel.app/api?id=1264564017951932456"> 
-  <img src="https://discord-readme-badge.vercel.app/api?id=1264564017951932456" /> 
-</a>
