@@ -14,7 +14,7 @@
 
 # Thinking 🤔
 <!--- # Thinking 🤔 -->
-[![My Skills](https://skillicons.dev/icons?i=rust,golang,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,zig,rust)](https://skillicons.dev)
 
 
 # Contact📇
