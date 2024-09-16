@@ -1,9 +1,6 @@
 # About 🪪
 <ul>
-  <li>Software Engineering</li>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Natural Language Processing</li>
+  <li>...well, I like exploring approaches to AI such Machine Learning, Deep Learning, NLP and more. 🧑‍💻</li>
 </ul>
 
 
