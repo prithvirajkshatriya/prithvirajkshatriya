@@ -1,6 +1,6 @@
 # About 🪪
 <ul style="font-family: 'Open Sans', sans-serif;">
-    ..Well, I like exploring approaches to AI such Machine Learning, Deep Learning, NLP and more. 🧑‍💻
+    ... 🧑‍💻Well, I like exploring approaches to AI such as.. 
     <li>Machine Learning</li>
     <li>Deep Learning</li>
     <li>Computer Vision</li>
