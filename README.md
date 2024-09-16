@@ -1,6 +1,10 @@
 # About 🪪
-<ul>
-  <li>...well, I like exploring approaches to AI such Machine Learning, Deep Learning, NLP and more. 🧑‍💻</li>
+<ul style="font-family: 'Open Sans', sans-serif;">
+    ..Well, I like exploring approaches to AI such Machine Learning, Deep Learning, NLP and more. 🧑‍💻
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Computer Vision</li>
+    <li>Natural Language Processing</li>
 </ul>
 
 
