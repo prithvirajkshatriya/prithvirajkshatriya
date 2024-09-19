@@ -5,7 +5,7 @@
     <li>Deep Learning</li>
     <li>Computer Vision</li>
     <li>Natural Language Processing</li>
-    as well as other aspects related to data like <b>data analytics, data engineering, and data science </b> to make sense of data.
+    as well as other aspects related to data like <b>data analytics, data engineering, and data science </b> to find insights in data.
 </ul>
 
 
