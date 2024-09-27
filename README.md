@@ -11,7 +11,7 @@
 
 # Toolbox 🧰
 <!--- # Toolbox 🧰 -->
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
 
 # Thinking 🤔
