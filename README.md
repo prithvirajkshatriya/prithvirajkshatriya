@@ -1,11 +1,9 @@
 # About 🪪
 <ul style="font-family: 'Open Sans', sans-serif;">
-    ... 🧑‍💻Well, I like exploring approaches to AI such as.. 
-    <li>Machine Learning</li>
-    <li>Deep Learning</li>
-    <li>Computer Vision</li>
-    <li>Natural Language Processing</li>
-    as well as other aspects related to data like <b>data analytics, data engineering, and data science </b> to find insights in data.
+    ... 🧑‍💻 Data this .. Data that and Data What not !! 🙃
+    <li>AI Engineering</li>
+    <li>Data Science</li>
+    <li>Data Engineering</li>
 </ul>
 
 
