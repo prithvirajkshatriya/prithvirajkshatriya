@@ -1,6 +1,6 @@
 # About 🪪
 <ul style="font-family: 'Open Sans', sans-serif;">
-    ... 🧑‍💻 Data this .. Data that and Data What not !! 🙃
+    ... 🧑‍💻 Data this .. Data that .. and Data What not !! 🙃
     <li>AI Engineering</li>
     <li>Data Science</li>
     <li>Data Engineering</li>
