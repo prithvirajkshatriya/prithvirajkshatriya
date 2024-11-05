@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,zig)](https://skillicons.dev) --> 
 
 
-# Contact📇
+<!-- # Contact📇
 <div id="badges">
    <a href="mailto:kshatriya.prithvi.raj.27@gmail.com?">
    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -29,3 +29,4 @@
    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
    </a>
 </div>
+--> 
