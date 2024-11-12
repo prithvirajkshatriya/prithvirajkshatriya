@@ -1,13 +1,9 @@
-# About 🪪
-<ul style="font-family: 'Open Sans', sans-serif;">
-    ... 🧑‍💻 
-    <li>AI Engineering</li>
-    <li>Data Science</li>
-    <li>Data Engineering</li>
-</ul>
+- AI Engineering
+- Data Science
+- Data Engineering
+- General CS
 
 
-# Toolbox 🧰
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
 
