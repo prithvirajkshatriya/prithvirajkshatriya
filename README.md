@@ -2,7 +2,7 @@
 - Data Engineering
 - Data Science
 - Software Engineering
-- Systems Development/Systems Programming (but haven't started learning it yet).
+- Systems Development (but haven't started learning it yet).
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
