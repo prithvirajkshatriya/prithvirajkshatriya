@@ -1,7 +1,8 @@
 - AI Engineering
 - Data Engineering
 - Data Science
-- General CS
+- Software Engineering
+- Systems Development/Systems Programming (but haven't started learning it yet).
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
