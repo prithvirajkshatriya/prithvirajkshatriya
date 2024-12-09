@@ -1,7 +1,6 @@
 - AI Engineering
 - Data Engineering
 - Data Science
-- Software Engineering
 - General CS
 
 
