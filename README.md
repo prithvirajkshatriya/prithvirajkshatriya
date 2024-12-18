@@ -4,7 +4,7 @@
 - General CS
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sass,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react,postgresql,mongodb,ghactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sass,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,bash,react,postgresql,mongodb)](https://skillicons.dev)
 
 
 <!--- # Thinking 🤔
