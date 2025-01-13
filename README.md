@@ -1,10 +1,8 @@
-- AI Engineering
-- Data Engineering
 - Data Science
-- General CS
+- AI Engineering
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sass,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,bash,react,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,ts,r,bash,sklearn,tensorflow,pytorch,aws,azure,docker,terraform,postgresql,mongodb)](https://skillicons.dev)
 
 
 <!--- # Thinking 🤔
