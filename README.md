@@ -1,5 +1,6 @@
 - Data Science
 - AI Engineering
+- CUDA/GPU Programming
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,ts,bash,sklearn,tensorflow,pytorch,aws,azure,docker,terraform,postgresql,mongodb,vscode)](https://skillicons.dev)
