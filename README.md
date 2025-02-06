@@ -3,10 +3,10 @@
 - CUDA/GPU Programming 
 
 # 🛠️
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,ts,bash,sklearn,tensorflow,pytorch,aws,azure,docker,terraform,postgresql,mongodb,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,ts,cs,bash,sklearn,tensorflow,pytorch,aws,azure,docker,terraform,postgresql,mongodb,vscode)](https://skillicons.dev)
 
 # 🤔🌎 
-[![My Skills](https://skillicons.dev/icons?i=rust,go,cpp,zig)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev) 
 
 # 📇
 <div id="badges">
