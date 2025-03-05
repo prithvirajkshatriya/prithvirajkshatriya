@@ -1,6 +1,6 @@
 # Heya 👋!
 
-I am into **Data Science**, **Machine Learning Engineering**, **AI Engineering** - any **engineering** work related to AI and **approaches to Artificial Intelligence**.🤖 I also like **CUDA/GPU programming** and **App Development**; however, I have neither learned nor worked with either.🙃 Glad if I can - help you out in any way/assist you in any way/support you in any way/add my energy to yours on anything!😎
+I am into **Data Science**, **Machine Learning Engineering**, **AI Engineering** - any **engineering** work related to AI and **approaches to Artificial Intelligence**.🤖 I also like **CUDA/GPU programming** and **App Development**; however, I have neither learned nor worked with either.🙃 Glad if I can - help you out in any way/assist you in any way/add my energy to yours on anything!😎
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,r,cpp,bash,sklearn,pytorch,tensorflow,aws,azure,docker,terraform,kubernetes,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
 
