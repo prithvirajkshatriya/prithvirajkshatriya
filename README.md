@@ -1,10 +1,18 @@
-# Heya 👋!
+# 👋
 
-I am into **Data Science**, **Machine Learning Engineering**, **AI Engineering** - any **engineering** work related to AI and **approaches to Artificial Intelligence**.🤖 I also like **CUDA/GPU programming** and **App Development**; however, I have neither learned nor worked with either.🙃 Although I am not an active contributor (but I ♥️ to explore GitHub) to any personal or public projects, I am more than glad if I can help you out in any way/assist you in any way/add my energy to yours on anything!😎
+<!--- I am into **Data Science**, **Machine Learning Engineering**, **AI Engineering** - any **engineering** work related to AI and **approaches to Artificial Intelligence**.🤖 I also like **CUDA/GPU programming** and **App Development**; however, I have neither learned nor worked with either.🙃 Although I am not an active contributor (but I ♥️ to explore GitHub) to any personal or public projects, I am more than glad if I can help you out in any way/assist you in any way/add my energy to yours on anything!😎 -->
+
+I have a predilection towards Data Science, Machine Learning Engineering, and AI Engineering - anything related to AI and its various approaches! 🤖
+
+Although I haven't formally learned or worked with CUDA/GPU programming or App Development, these areas still spark my interest. 🙃
+
+While I may not be an active contributor to personal or public projects at the moment (though I ♥️ exploring GitHub), I'm always open to assisting and collaborating in any way I can. If you need help or want to combine energies on something, feel free to reach out! 😎
+
+# 🤹
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,r,cpp,bash,sklearn,pytorch,tensorflow,aws,azure,docker,terraform,kubernetes,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
 
-# 🤔🌎 
+# 🤔
 [![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev) 
 
 # 📇
