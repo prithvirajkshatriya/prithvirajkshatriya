@@ -6,7 +6,7 @@ I have a predilection towards **Data Science, Machine Learning Engineering,** an
 
 # 🤹
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,bash,sklearn,pytorch,tensorflow,aws,azure,docker,terraform,kubernetes,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,bash,sklearn,pytorch,tensorflow,aws,azure,docker,terraform,kubernetes,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
 
 # 🤔
 [![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev) 
