@@ -8,7 +8,7 @@ While I am not an active contributor to any personal or public projects at the m
 
 # 🤹
 
-[![My Skills](https://skillicons.dev/icons?i=c++,python,java,ts,bash,sklearn,pytorch,tensorflow,aws,azure,docker,terraform,kubernetes,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,ts,bash,sklearn,pytorch,tensorflow,aws,azure,docker,terraform,kubernetes,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
 
 # 🤔
 [![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev) 
