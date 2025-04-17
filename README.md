@@ -4,7 +4,7 @@
 
 <!--- I have a predilection towards **Data Science, Machine Learning Engineering,** and **AI Engineering** - anything related to **AI** and **its various approaches**! 🤖 Although I haven't formally learned or worked with **CUDA/GPU programming** & **App Development**, these areas still spark my interest.--> 
 
-While I am not an active contributor to any personal or public projects presently (though I ♥️ exploring GitHub), I'm always open to **assisting and collaborating** in any way I can. Let me know if you need any assistance or would like to **combine energies on something**! 😎
+While I am not an active contributor to any personal or public projects presently (though I ♥️ exploring GitHub), I'm always open to **assisting and collaborating** in any way I can. Let me know if you would like to **combine energies on something**! 😎
 
 # 🤹
 
