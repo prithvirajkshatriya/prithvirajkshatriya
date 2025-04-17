@@ -15,12 +15,16 @@ While I am not an active contributor to any personal or public projects presentl
 
 # 📇
 <div id="badges">
-   <a href="mailto:kshatriyaprithviraj@gmail.com?">
+<!--    <a href="mailto:kshatriyaprithviraj@gmail.com?">
    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
    </a> 
    <a href="https://www.linkedin.com/in/prithvirajkshatriya/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
+   </a> -->
+   <a href="mailto:its.david.beckham@protonmail.com?">
+   <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail Badge"/>
+   </a> 
+   
    <a href="https://discord.com/users/:1264564017951932456">
    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
    </a>
