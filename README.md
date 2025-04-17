@@ -11,7 +11,7 @@ While I am not an active contributor to any personal or public projects presentl
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,sklearn,pytorch,tensorflow,aws,azure,docker,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
 
 # 🤔
-[![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=rust,julia)](https://skillicons.dev) 
 
 # 📇
 <div id="badges">
